@@ -1,1 +1,1 @@
-# Sistemi-baza-podataka
+Razvoj baze podataka za potrebe rada jednog dela službe za ljudske resurse, odnosno razvoj baze podataka HRIS (engl. Human Resource Information System) u ulozi tehnološke, digitalne informacione podrške menadžmentu ljudskih resursa.
